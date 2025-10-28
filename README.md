@@ -1,2 +1,3 @@
-# Images-to-mask
-Creates masks of brain and heart images
+# Image mask creation
+
+Creates and downloads masks of brain and heart images
